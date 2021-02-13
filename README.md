@@ -39,9 +39,8 @@ https://docs.google.com/spreadsheets/d/1ocsZrgEgTLiyNUyQJ_V5r9gCwEn4AvzA9O8bfhpM
 
 본 프로그램은 GPL 3.0 또는 그 이후의 가장 최신 라이선스를 따릅니다.
 
-- GPL 3.0: https://www.gnu.org/licenses/gpl-3.0.html
-- GPL 2.0 한글 번역본: http://korea.gnu.org/documents/copyleft/gpl.ko.html
-
+* GPL 3.0: https://www.gnu.org/licenses/gpl-3.0.html
+* GPL 2.0 한글 번역본: http://korea.gnu.org/documents/copyleft/gpl.ko.html
 * 재배포 시 소스코드는 공개해야 합니다.
 * 달력자료와 일정자료와 같은 입력 자료를 공개해야 되는 것은 아닙니다.
 * 개인적 용도 또는 학교 내부에서 단순 이용시에는 소스코드를 편집하여 이용한다 하더라도 특별히 무언가를 공개하지 않아도 됩니다.
