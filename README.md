@@ -34,3 +34,10 @@ https://docs.google.com/spreadsheets/d/1ocsZrgEgTLiyNUyQJ_V5r9gCwEn4AvzA9O8bfhpM
 # ChangeLog
 
 - ```2021. 2. 13.(토)```: v.1 공개 - https://docs.google.com/spreadsheets/d/1ocsZrgEgTLiyNUyQJ_V5r9gCwEn4AvzA9O8bfhpMTCE/edit?usp=sharing
+
+# License
+
+본 프로그램은 GPL 3.0 또는 그 이후의 가장 최신 라이선스를 따릅니다.
+
+- GPL 3.0: https://www.gnu.org/licenses/gpl-3.0.html
+- GPL 2.0 한글 번역본: http://korea.gnu.org/documents/copyleft/gpl.ko.html
