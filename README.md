@@ -16,9 +16,9 @@ CalFES('캘페스'라 읽어주세요)는 대한민국 초등학교를 위한 �
 
 # Install
 
-https://docs.google.com/spreadsheets/d/1ocsZrgEgTLiyNUyQJ_V5r9gCwEn4AvzA9O8bfhpMTCE/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1rI_Zs6lj4_RPakomkHnOVlDqtdwYKDo82RyRa2aPx1E/edit?usp=sharing
 
-1. 파일 복사: 이 구글 스프레드시트 파일을 구글 드라이브 학교 관리자 계정(혹은 자신의 계정)으로 복사합니다.
+1. 파일 복사: 위의 구글 스프레드시트 파일을 구글 드라이브 학교 관리자 계정(혹은 자신의 계정)으로 복사합니다.
 2. 파일 이름 변경: 파일 이름을 적당히 고칩니다.
 3. 일정자료 시트 링크 입력: ReadMe 시트를 읽어보고, 학교 이름과 달력 이름, 일정자료 시트의 A1로 가는 링크를 입력합니다.
 > 주의: ReadMe 시트 중 A4 셀의 일정자료 시트로 가는 URL 주소를 갱신하지 않으면 일정자료로 가는 링크가 제대로 동작하지 않습니다. 일정자료 시트의 G2 셀을 우클릭한 뒤, 이 셀의 링크 얻기 항목을 선택하여 링크를 복사하고, ReadMe 시트의 A4 셀에 복사한 뒤에, 마지막의 G2 부분을 삭제해 줍니다(마지막이 range=로 끝나도록 합니다). 이 작업은 파일을 복사할 때마다 반드시 해 줘야 합니다.
